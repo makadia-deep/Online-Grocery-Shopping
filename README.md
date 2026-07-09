@@ -83,12 +83,10 @@ npm run dev
 This project was collaboratively developed by:
 
 **Makadia Deep**
-Final Year MCA Student | Passionate about full-stack development
 - GitHub: [github.com/makadia-deep](https://github.com/makadia-deep)
 - LinkedIn: [linkedin.com/in/deep-makadia-dev](https://www.linkedin.com/in/deep-makadia-dev/)
 
 **Mihir Parekh**
-Final Year MCA Student | Co-developer of this project
 - GitHub: [github.com/Mihir-3](https://github.com/Mihir-3)
 - LinkedIn: [linkedin.com/in/parekh-mihir](https://linkedin.com/in/parekh-mihir)
 
